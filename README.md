@@ -8,7 +8,8 @@
   <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   
-  <!-- Robotics & Automation -->
+  <!-- Robotics, Embedded & Automation -->
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/ROS2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" />
 
@@ -26,4 +27,5 @@
   <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https
+  <img src="https://img.shields.io/badge/Lubuntu-%2300A4E4.svg?style=for-the-badge&logo=lubuntu&logoColor=white" />
+</p>
