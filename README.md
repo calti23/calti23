@@ -14,6 +14,9 @@
   <img src="https://img.shields.io/badge/ROS2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" />
 
+  <!-- Tools & Virtualization -->
+  <img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" />
+
   <!-- Game Dev & Databases -->
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
