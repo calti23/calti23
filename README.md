@@ -14,7 +14,8 @@
   <img src="https://img.shields.io/badge/ROS2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white" />
   <img src="https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white" />
 
-  <!-- Tools & Virtualization -->
+  <!-- Tools, DevOps & Virtualization -->
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VirtualBox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" />
 
   <!-- Game Dev & Databases -->
@@ -29,5 +30,4 @@
   <img src="https://img.shields.io/badge/Windows%2011-%230078D4.svg?style=for-the-badge&logo=windows11&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%2010-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="
