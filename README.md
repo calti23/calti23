@@ -30,4 +30,7 @@
   <img src="https://img.shields.io/badge/Windows%2011-%230078D4.svg?style=for-the-badge&logo=windows11&logoColor=white" />
   <img src="https://img.shields.io/badge/Windows%2010-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white" />
-  <img src="
+  <img src="https://img.shields.io/badge/Kali%20Linux-%23557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lubuntu-%2300A4E4.svg?style=for-the-badge&logo=lubuntu&logoColor=white" />
+</p>
